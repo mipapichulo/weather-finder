@@ -6,3 +6,7 @@ weather in that moment!
 ### Remember
 - Execute `npm install` before run the app.
 - Place your **keys** and rename the file '.env.example' to '.env'
+
+### API used
+- [MapBox](https://www.mapbox.com/)
+- [OpenWeatherMap](https://openweathermap.org/) 
